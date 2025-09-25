@@ -1,0 +1,6 @@
+nano ~/.gitmessage.txt
+# Subject line (short, imperative tense)
+# 
+# Body (why this change was made, any context)
+#
+# Footer (issues, breaking changes, co-authors, etc.)
